@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageAttacher", "ImageAttacher\ImageAttacher.csproj", "{27766DAE-BD0C-4709-A6CB-2927A4538699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27766DAE-BD0C-4709-A6CB-2927A4538699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27766DAE-BD0C-4709-A6CB-2927A4538699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27766DAE-BD0C-4709-A6CB-2927A4538699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27766DAE-BD0C-4709-A6CB-2927A4538699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF6F134-12D1-4903-A1BC-65E2E56E45E4}
+	EndGlobalSection
+EndGlobal
